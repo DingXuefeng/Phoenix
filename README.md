@@ -1,2 +1,2 @@
 # Phoenix
-Fitter in Solar neutrino physics with fit
+Fitter in Solar neutrino physics with zfit
